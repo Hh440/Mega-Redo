@@ -16,7 +16,7 @@ Mega Rado is an Android application designed to provide users with a convenient 
 
 1. Clone the repository:
    bash
-   git clone https://github.com/yourusername/mega-rado.git
+   git clone https://github.com/Hh440/Mega-Redo.git
    
 2. Open the project in Android Studio.
 3. Build and run the application on your Android device or emulator.
